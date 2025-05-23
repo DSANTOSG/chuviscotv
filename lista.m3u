@@ -706,6 +706,6 @@
     
     #EXTINF:-1 channel-id="pluto-604b99d633a72b00078e05ad" tvg-id="604b99d633a72b00078e05ad" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" tvg-chno="1525" group-title="Música" , Pluto TV Karaokê por Stingray
     https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Sports",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+    #EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Sports",Combate Global
+    https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
