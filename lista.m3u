@@ -8,8 +8,6 @@
     https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
     #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAL ABERTO",SBT Ribeirão Preto
     https://www.youtube-nocookie.com/embed/qtB02N-ymVs
-    #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAL ABERTO",SBT
-    http://evp.mm.uol.com.br:1935/sbt/sbt/playlist.m3u8
     #EXTINF:-1 tvg-logo="https://imgur.com/q1YRgv6" group-title="CANAL ABERTO",Rede Tv
     https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
     #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/sbt.png" group-title="Variedades", SBT Interior (SP)
