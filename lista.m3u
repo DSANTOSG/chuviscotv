@@ -316,8 +316,7 @@
     #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Família | Brasil
     https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
     #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
-    https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-    
+    https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866    
     #EXTINF:-1 channel-id="pluto-5f99ac4fded33000078f29ab" tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" tvg-chno="15" group-title="Filmes" , Pluto TV Star Trek
     https://i.mjh.nz/PlutoTV/5f99ac4fded33000078f29ab-alt.m3u8
     
