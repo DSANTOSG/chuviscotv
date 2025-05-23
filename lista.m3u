@@ -1,3 +1,9 @@
+    #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV
+    https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+    #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV São Paulo
+    http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+    #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV São Paulo HD
+    http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
     #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",Record News
     https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
     #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",RecordTV
