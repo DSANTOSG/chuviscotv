@@ -1,6 +1,3 @@
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0Ks.png" group-title="CANAL ABERTO",GLOBO MINAS
-http://tv.mapfibra.com.br:8555/live/1438/123456/70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",RecordTV
