@@ -21,13 +21,6 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/recordnews.png" group-title="CANAL ABERTO", Record News | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="https://i.imgur.com/Wu4ykxo.png",Globo News HD
-https://stream1.freetv.fun/globo-news-2.m3u8
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/zR0XZG7.png",Warner Channel HD
-https://stream1.freetv.fun/warner-channel-3.ctv
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/qgyrEps.png",GLOOB FHD
-https://stream1.freetv.fun/gloob-1.ctv
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Infantil", Kids | Pluto TV
