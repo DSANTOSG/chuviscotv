@@ -23,7 +23,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="CANAL FECHADO", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267-4-main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="CANAL FECHADO", Nickelodeon
-https://reidoscanais.tv/embed/?id=nickelodeon
+https://embmaxtv.online/nickelodeon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="CANAL FECHADO", Warner TV
 https://cdn-fortaleza-1.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.assistirtvonlinebr.net/icones/aberto/documentarios.jpeg?nocache=2041956576" group-title="CANAL FECHADO", Animal Planet
@@ -34,6 +34,8 @@ https://reidoscanais.tv/embed/?id=axn
 https://aipapai.shop/_temp/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", FX
 https://aipapai.shop/_temp/fx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", ESPN
+https://embmaxtv.online/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Variedades", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Infantil", Kids | Pluto TV
