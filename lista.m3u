@@ -88,6 +88,8 @@ https://aipapai.shop/_temp/telecinetouch.m3u8
 https://aipapai.shop/_temp/universaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
 https://aipapai.shop/_temp/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
+https://cdn-fortaleza-1.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Todo Mundo Odeia o Chris
 https://aipapai.shop/_temp/24h_odeiachris.m3u8
