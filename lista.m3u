@@ -48,9 +48,9 @@ https://aipapai.shop/_temp/history.m3u8
 https://aipapai.shop/_temp/history2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Megapix
 https://aipapai.shop/_temp/megapix.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", NickJr
-https://aipapai.shop/_temp/nickelodeon.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Nickelodeon
+https://aipapai.shop/_temp/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", NickJr
 https://aipapai.shop/_temp/nickjr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE
 https://aipapai.shop/_temp/premiere.m3u8
