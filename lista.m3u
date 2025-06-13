@@ -22,12 +22,18 @@ https://aipapai.shop/_temp/axn.m3u8
 https://aipapai.shop/_temp/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cinemax
 https://aipapai.shop/_temp/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", COMBATE
+https://aipapai.shop/_temp/combate.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Channel
 https://aipapai.shop/_temp/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Kids
+https://aipapai.shop/_temp/discoverykids.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Turbo
 https://aipapai.shop/_temp/discoveryturbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", ESPN 1
 https://aipapai.shop/_temp/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Gloob
+https://aipapai.shop/_temp/gloob.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO
 https://aipapai.shop/_temp/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO Family
@@ -38,10 +44,28 @@ https://aipapai.shop/_temp/hboplus.m3u8
 https://aipapai.shop/_temp/hboxtreme.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY
 https://aipapai.shop/_temp/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY 2
+https://aipapai.shop/_temp/history2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Megapix
 https://aipapai.shop/_temp/megapix.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", NickJr
+https://aipapai.shop/_temp/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Nickelodeon
+https://aipapai.shop/_temp/nickjr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE
+https://aipapai.shop/_temp/premiere.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 2 
+https://aipapai.shop/_temp/premiere2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 3
+https://aipapai.shop/_temp/premiere3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 4
+https://aipapai.shop/_temp/premiere4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Prime Video
+https://aipapai.shop/_temp/primevideo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", SONY Channel
 https://aipapai.shop/_temp/sonychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Space
+https://aipapai.shop/_temp/space.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Studio Universal
 https://aipapai.shop/_temp/studiouniversal.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", TNT Novelas
@@ -62,6 +86,8 @@ https://aipapai.shop/_temp/telecinepremium.m3u8
 https://aipapai.shop/_temp/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Universal TV
 https://aipapai.shop/_temp/universaltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
+https://aipapai.shop/_temp/warnerchannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Todo Mundo Odeia o Chris
 https://aipapai.shop/_temp/24h_odeiachris.m3u8
