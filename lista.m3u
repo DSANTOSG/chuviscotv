@@ -94,11 +94,11 @@ https://01-mcteteu.shop/secret_key/0be6b676332ec6ba960673fae50e9b49.m3u8
 https://cdn-fortaleza-1.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Todo Mundo Odeia o Chris
-https://aipapai.shop/_temp/24h_odeiachris.m3u8
+https://01-mcteteu.shop/secret_key/1abdf62950bbd9ffb8bd79baa33796f1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Simpsons
-https://aipapai.shop/_temp/24h_simpsons.m3u8
+https://01-mcteteu.shop/secret_key/7e021ee4093d94d522c3ca3ee9d17c5f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Dragon Ball Z
-https://aipapai.shop/_temp/24h_dragonball.m3u8
+https://01-mcteteu.shop/secret_key/265151563263d01b9e2dfaa6087e4e5c.m3u8
 
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CANAL FECHADO", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
