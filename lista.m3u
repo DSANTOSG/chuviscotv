@@ -7,7 +7,7 @@ https://01-mcteteu.shop/secret_key/ada61493452fa0263f5e7b187d92a261.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAL ABERTO",SBT
 https://01-mcteteu.shop/secret_key/cde18b7bc65d2a06beb2f60f19edcef2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",Rede Tv!
-https://aipapai.shop/_temp/redetv.m3u8
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="CANAL ABERTO", Band 
 https://01-mcteteu.shop/secret_key/16057308740028d1e7a38b83a63d5729.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="CANAL ABERTO",RedeTV!
@@ -16,6 +16,8 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 https://01-mcteteu.shop/secret_key/89d5bcfddd7148bc606b7322b90f7a94.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Animal Planet
 https://01-mcteteu.shop/secret_key/b721700eb5fd6c0b4cb524ff388ce070.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", BAND SPORT
+https://01-mcteteu.shop/secret_key/43c5a16840ff04b7eef5f8d96b51f9ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", AXN
 https://01-mcteteu.shop/secret_key/23172100a3486acf1e871876f414cc86.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cartoon Network
@@ -45,13 +47,13 @@ https://01-mcteteu.shop/secret_key/53ebb2b8da92e867f04ab9cf6c2146c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY
 https://01-mcteteu.shop/secret_key/3c134221dabaf9667350a0589982e937.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY 2
-https://aipapai.shop/_temp/history2.m3u8
+https://01-mcteteu.shop/secret_key/927b068145ff6f25eee9efd67e38c5ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Megapix
 https://01-mcteteu.shop/secret_key/92f839c652179b1f85de1bd0a24c625b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Nickelodeon
-https://aipapai.shop/_temp/nickelodeon.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", NickJr
-https://aipapai.shop/_temp/nickjr.m3u8
+https://01-mcteteu.shop/secret_key/b67031622c6b631db5a188034524a96a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE CLUBES
+https://01-mcteteu.shop/secret_key/c8141c3068179e25d6feb51b4aca51cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE
 https://01-mcteteu.shop/secret_key/0c1b43a0453c795362efd46ade4e1eb9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 2 
@@ -66,6 +68,8 @@ https://01-mcteteu.shop/secret_key/028acabdc25991467bac1af5d6a2a973.m3u8
 https://01-mcteteu.shop/secret_key/8109d90e7aea6c24da04a84249749ad1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Space
 https://01-mcteteu.shop/secret_key/d5a06da0a0194e1209b32b2898b94d2a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", SPORTTV
+https://01-mcteteu.shop/secret_key/6e545bd701455a2906e64ae3f2ff63d9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Studio Universal
 https://01-mcteteu.shop/secret_key/9734c241bfe94f2643477e2a8c78f34a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", TNT
@@ -91,7 +95,7 @@ https://01-mcteteu.shop/secret_key/a6930da44ba06f286fba952718fda1d8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
 https://01-mcteteu.shop/secret_key/0be6b676332ec6ba960673fae50e9b49.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
-https://cdn-fortaleza-1.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
+https://lb1.embmaxtv.online/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", 24H Todo Mundo Odeia o Chris
 https://01-mcteteu.shop/secret_key/1abdf62950bbd9ffb8bd79baa33796f1.m3u8
