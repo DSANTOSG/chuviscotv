@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", GLOBO SP
-https://01-mcteteu.shop/secret_key/eaf2a61901268aad574f0f44bfecc4b3.m3u8
+http://aguacomgas.shop:80/088213470/843023813/153463.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",RecordTV
@@ -15,7 +15,7 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", A&E
 https://01-mcteteu.shop/secret_key/89d5bcfddd7148bc606b7322b90f7a94.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Animal Planet
-https://01-mcteteu.shop/secret_key/b721700eb5fd6c0b4cb524ff388ce070.m3u8
+http://aguacomgas.shop:80/088213470/843023813/125105.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", BAND SPORT
 https://01-mcteteu.shop/secret_key/623f533c348449050d2832eef9e42b02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", AXN
