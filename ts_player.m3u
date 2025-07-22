@@ -1683,17 +1683,17 @@ http://labxs.xyz:80/051790912/347154456/3787727.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Terror
 http://labxs.xyz:80/051790912/347154456/3787728.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Filmes Suspense
-http://labxs.xyz:80/051790912/347154456/3787729.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Romance
-http://labxs.xyz:80/051790912/347154456/3787730.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Drama
-http://labxs.xyz:80/051790912/347154456/3787731.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Comédia
-http://labxs.xyz:80/051790912/347154456/3787732.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Filmes Ação
-http://labxs.xyz:80/051790912/347154456/3787733.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Sucessos
-http://labxs.xyz:80/051790912/347154456/3787734.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="• +TVZYN" tvg-logo="https://i.imgur.com/3JRXHWX.png" group-title="SBT PLUS",• +TVZYN
 http://labxs.xyz:80/051790912/347154456/3787735.ts
 #EXTINF:-1 tvg-id="" tvg-name="• POP" tvg-logo="https://i.imgur.com/3JRXHWX.png" group-title="SBT PLUS",• POP
