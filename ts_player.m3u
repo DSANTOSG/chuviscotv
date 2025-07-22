@@ -1652,36 +1652,28 @@ http://labxs.xyz:80/051790912/347154456/3787711.ts
 http://labxs.xyz:80/051790912/347154456/3787712.ts
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://images2.imgbox.com/a9/7a/eMhzFOQ7_o.png" group-title="4K UHD",BAND NEWS 4K
 http://labxs.xyz:80/051790912/347154456/3787713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv USA Kickboxing" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto Tv USA Kickboxing
-http://labxs.xyz:80/051790912/347154456/3787714.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Junior
-http://labxs.xyz:80/051790912/347154456/3787715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Porta dos Fundos" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto Tv Porta dos Fundos
-http://labxs.xyz:80/051790912/347154456/3787716.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comédia" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Comédia
-http://labxs.xyz:80/051790912/347154456/3787717.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Vida Real
-http://labxs.xyz:80/051790912/347154456/3787718.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Mistérios
-http://labxs.xyz:80/051790912/347154456/3787719.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Investigação
-http://labxs.xyz:80/051790912/347154456/3787720.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Tokusato" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto Tv Tokusato
-http://labxs.xyz:80/051790912/347154456/3787721.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto Tv Naruto" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto Tv Naruto
-http://labxs.xyz:80/051790912/347154456/3787722.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Anime
-http://labxs.xyz:80/051790912/347154456/3787723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Retrô
-http://labxs.xyz:80/051790912/347154456/3787724.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Família
-http://labxs.xyz:80/051790912/347154456/3787725.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Clássicos
-http://labxs.xyz:80/051790912/347154456/3787726.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Filmes Nacionais
-http://labxs.xyz:80/051790912/347154456/3787727.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Terror
-http://labxs.xyz:80/051790912/347154456/3787728.ts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Romance
@@ -1968,5 +1960,3 @@ http://labxs.xyz:80/051790912/347154456/4009096.ts
 http://labxs.xyz:80/051790912/347154456/4009097.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 04" tvg-logo="https://i.imgur.com/5IZfXBv.png" group-title="PPV",PARAMOUNT + 04
 http://labxs.xyz:80/051790912/347154456/4009098.ts
-#EXTINF:-1 tvg-name="Noite Sem Fim (2015)" tvg-logo="https://image.tmdb.org/t/p/w780/a7Mg9nL5014CrOHesZ2wZEQqMfN.jpg" group-title="Filmes: Acao",Noite Sem Fim (2015)
-http://labxs.xyz:80/movie/051790912/347154456/4400206.mp4
