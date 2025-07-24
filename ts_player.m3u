@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24H DESENHOS", 24H Todo Mundo Odeia o Chris
-https://03-mcteteu.shop/secret_key/a601410e7902a9934744d5f26a621f15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24h pica pau" tvg-logo="https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif" group-title="24H DESENHOS",24h pica pau
 http://labxs.xyz:80/051790912/347154456/3787423.ts
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif" group-title="24H DESENHOS",3 Palavrinhas
