@@ -1051,7 +1051,7 @@ http://labxs.xyz:80/552948291/618493570/4401996.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO+ SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="CANAIS | HBO",HBO+ SD
 http://labxs.xyz:80/552948291/618493570/4401997.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="CANAIS | INFANTIS",Cartoon Network FHD
-http://labxs.xyz:80/552948291/618493570/4401998.ts
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/efe8cb379de50808e7fc369b41f5bb72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="CANAIS | INFANTIS",Cartoon Network HD
 http://labxs.xyz:80/552948291/618493570/4401999.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="CANAIS | INFANTIS",Cartoon Network SD
@@ -2522,3 +2522,4 @@ http://labxs.xyz:80/552948291/618493570/4402886.ts
 http://labxs.xyz:80/552948291/618493570/4402887.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="CANAIS | ESPORTES",ESPN SD
 http://labxs.xyz:80/552948291/618493570/4402888.ts
+
