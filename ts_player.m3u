@@ -259,13 +259,13 @@ https://03-mcteteu.shop/secret_key/74f467368843727e7bd01c1a45b12a14.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="CANAL ABERTO",RedeTV!
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", A&E
-https://03-mcteteu.shop/secret_key/c678ae0319858edcb3d6392931fe18b5.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/edf2c60c80dcc4e65b2e28b5a489b421.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Animal Planet
-https://03-mcteteu.shop/secret_key/40943c98b8f9d01f5336c4300a0764a0.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/54d4668c825c1ba1d9fa407ed3d10906.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", BAND SPORT
 https://03-mcteteu.shop/secret_key/fbea6bc86124773f0c24024d1043315f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", AXN
-https://03-mcteteu.shop/secret_key/7af6ae02668995f146b54feb8a7bd5d2.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/caddd0d07c2d9fc0707d06378089f244.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cartoon Network
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/efe8cb379de50808e7fc369b41f5bb72.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cinemax
@@ -338,3 +338,4 @@ https://03-mcteteu.shop/secret_key/4a21da985f1d1023136bf444f5232f63.m3u8
 https://03-mcteteu.shop/secret_key/0a8983800a375209d111709b14f8c351.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
 https://lb1.embmaxtv.online/warner/tracks-v1a1/mono.ts.m3u8
+
