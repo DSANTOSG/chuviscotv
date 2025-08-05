@@ -245,17 +245,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images2.imgbox.com/da/88/ZazBMLLx_o.png" group-title="PLUTO TV",Pluto TV Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO", GLOBO SP
-https://03-mcteteu.shop/secret_key/a0a96ca89c2cf37f9acadfe142a70b27.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/df0ae2ead775b7e6b087ba1cee0c16e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",RecordTV
-https://03-mcteteu.shop/secret_key/89892e54a998270fe97c2c331e4c1ee6.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4ed2c6779ee17bc3bb117dc9bbd2a55b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAL ABERTO",SBT
-https://03-mcteteu.shop/secret_key/f5459ca6c7b535de8fec10690dc058ec.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/b97ba2d3c5dd31766c8f8b36d8a4f7be.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",Rede Tv!
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="CANAL ABERTO", Band 
-https://03-mcteteu.shop/secret_key/74f467368843727e7bd01c1a45b12a14.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/20a5c0a8c6d98c5dd41eeac397e8b56d.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/redetv.png" group-title="CANAL ABERTO",RedeTV!
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", A&E
@@ -263,79 +263,80 @@ https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/edf2c6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Animal Planet
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/54d4668c825c1ba1d9fa407ed3d10906.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", BAND SPORT
-https://03-mcteteu.shop/secret_key/fbea6bc86124773f0c24024d1043315f.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3eefd6bbf8e2dd3dc15dad76a4cdb7ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", AXN
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/caddd0d07c2d9fc0707d06378089f244.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cartoon Network
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/efe8cb379de50808e7fc369b41f5bb72.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Cinemax
-https://03-mcteteu.shop/secret_key/44f115d1d1a3d8ad0b66060709fe5990.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/33190ddff9d6c6d20d19d30f54b35fab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", COMBATE
-https://03-mcteteu.shop/secret_key/f6e3cf970ce1aa37f937771a230f0096.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/736677ac72fd8b69fb3a0f550fe8a947.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Channel
-https://03-mcteteu.shop/secret_key/f8d6505b95ef5d83c91938a902c5c82f.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/cb96b1500372d3a6ecdc3b6119d39434.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Kids
-https://03-mcteteu.shop/secret_key/99d9bdbf4b9cf0c8710d9560193f0330.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/509076084fca323ca1939cccbe4e5c61.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Discovery Turbo
-https://03-mcteteu.shop/secret_key/eda0ff904aa02605595e5a2b349a1cf0.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a61a9526a9555ae0c08a22659fb239c6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Gloob
-https://03-mcteteu.shop/secret_key/1d0369eb61c186e1998e7e230eeebb3c.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d00e06e321cb709f0a06f2fd62a27894.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO
-https://03-mcteteu.shop/secret_key/2d23c47698014a647cb4eb58fcc1b7a1.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/f54836691a5f94b64ae554d189a48466.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO Family
-https://03-mcteteu.shop/secret_key/c4d71ad8b88a29fedb08678b9694ecb7.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/29d9526063b83d0b7e9fd1eda46a399f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO Plus
-https://03-mcteteu.shop/secret_key/c4d71ad8b88a29fedb08678b9694ecb7.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/14b33afe80e2ce06b9f4c534a403e913.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HBO Extreme
-https://03-mcteteu.shop/secret_key/e1b88700bf863d21beb1c3b0c4aecfc7.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/2c95a877bb050aa05b69585aae37d4ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY
-https://03-mcteteu.shop/secret_key/4536c98ecd415db5256418f1afc6e555.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/71a28da5e78c9f72c7532f4b32b0b44d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", HISTORY 2
-https://03-mcteteu.shop/secret_key/0c67314911d916b7b1d1691015b6bf5b.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/13bba4fa6bb2692ab82acb494147c7fd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Megapix
-https://03-mcteteu.shop/secret_key/b0507d092f9c54fe2743444f5633b97a.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/b9ac6b6008cdbae647053d44785cf43c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Nickelodeon
-https://03-mcteteu.shop/secret_key/b615365282b7125b02da17e57d249c7e.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3b8c7d83c219e87482286acb03aca56b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE
-https://03-mcteteu.shop/secret_key/22d5b819ba1ecf31f8f24b8a3e1e9348.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/3d5b0aa12b0f1314aee7a276b2bad67c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 2 
-https://03-mcteteu.shop/secret_key/40296d9b831b085a944421af7313b026.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d396e73f45765bed2417c2b3ede6fd09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 3
-https://03-mcteteu.shop/secret_key/d45252ea7f2ff55509620876ddb50ac4.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/8cb342367ac89992d5094bd200958cb2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", PREMIERE 4
-https://03-mcteteu.shop/secret_key/6c28b8966e3e98a7323b66cc72b9f463.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/41cdd967aaabe33840d21b67ceeb1a2b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Prime Video
-https://03-mcteteu.shop/secret_key/d0be037d4f0b8025a4941a9070a8971a.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/63143241a2fd48685ac27e5d11009167.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", SONY Channel
-https://03-mcteteu.shop/secret_key/e85c58a9b7bdaebe684d9a54da78846a.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/1aa975266024a8922c734b78d927afe8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Space
-https://03-mcteteu.shop/secret_key/0dcc143d0cfb1b9392da04350c39cc61.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/74095d16ef60d93a94c977552213784d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", SPORTTV
-https://03-mcteteu.shop/secret_key/62b7891b1c76a429374cde50ddef9809.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/b8b32656dd378e41afe9cf6da9771463.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Studio Universal
-https://03-mcteteu.shop/secret_key/eb5d9011ea87a2f0ba9aecd0fd22627d.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/5ad965add867207a38d19e9537aa4749.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", TNT
-https://03-mcteteu.shop/secret_key/3dda27b8bf12600be6a55e8abedf1cee.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/be6e862c3f0e64a33ed5c2cdb5d866fc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", TNT Novelas
-https://03-mcteteu.shop/secret_key/c1b88b4bf46ea3eba351d5baad635e39.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/1e3e167e8b9c1df55e68333888cf8f62.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", TNT Series
-https://03-mcteteu.shop/secret_key/f93e807bbd97aa051536e38e0854511f.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4ad017907ec1b3fb475505d6722a85fd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Action
-https://03-mcteteu.shop/secret_key/1e593c737cd2e0bd6da7c293b021bcb7.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/9011869f69d8b07967562a1298398aca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Cult
-https://03-mcteteu.shop/secret_key/092273e5a85494cc4f0efada455bb49a.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/d3d72deaed3f52e1648e486d33cba57a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Fun
-https://03-mcteteu.shop/secret_key/365e5a23785e40ba305ef81294efe8ed.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/06f176f8075cba519b2882063ec269e0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Pipoca
-https://03-mcteteu.shop/secret_key/a04fec410e588e84066555e5cb410805.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/11f92651a93fc0e509dc4d87bb2a5130.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Premium
-https://03-mcteteu.shop/secret_key/b401f3ae8fa83d4c4a73ebfbc81bf5bc.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4be7a6c3766c572f3fea9889d733d017.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Telecine Touch
-https://03-mcteteu.shop/secret_key/49978f5fd25693d1b12d9a69558a7273.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/62e44839f84fc5ee0bf8a8fdf11e441a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", Universal TV
-https://03-mcteteu.shop/secret_key/4a21da985f1d1023136bf444f5232f63.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/f195edee2b848f4071d5c47231f5847d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
-https://03-mcteteu.shop/secret_key/0a8983800a375209d111709b14f8c351.m3u8
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/097d5780dcf739344c6504ccaf080554.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL FECHADO", WARNER CHANNEL
-https://lb1.embmaxtv.online/warner/tracks-v1a1/mono.ts.m3u8
+https://lb1.embmaxtv.online/warner/tracks-v1a1/mono.ts
+
 
