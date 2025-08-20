@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAL ABERTO",RecordTV SP
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="PLUTO TV", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="PLUTO TV", Kids | Pluto TV
@@ -3447,6 +3451,7 @@ http://srv03.cc:80/725158922/795582211/7142468.ts
 http://srv03.cc:80/725158922/795582211/7142469.ts
 #EXTINF:-1 tvg-id="" tvg-name="• Premiere Clubes SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="✨ CANAIS • CANAIS ALTERNATIVOS 02",• Premiere Clubes SD
 http://srv03.cc:80/725158922/795582211/7142470.ts
+
 
 
 
