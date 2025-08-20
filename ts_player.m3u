@@ -436,9 +436,9 @@ http://srv03.cc:80/725158922/795582211/4794327.ts
 #EXTINF:-1 tvg-id="178768" tvg-name="SONY MOVIES SD" tvg-logo="https://techzzi.site/logos/filmeseseries/sony.png" group-title="✨  CANAIS • FILMES E SÉRIES",SONY MOVIES SD
 http://srv03.cc:80/725158922/795582211/4794329.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://techzzi.site/logos/documentario/animalplanet.png" group-title="✨ CANAIS • DOCUMENTÁRIOS",ANIMAL PLANET FHD
-https://aws002.vidfox.cloud/animal-planet/index.m3u8
+http://srv03.cc:80/725158922/795582211/4794330.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://techzzi.site/logos/documentario/animalplanet.png" group-title="✨ CANAIS • DOCUMENTÁRIOS",ANIMAL PLANET SD
-https://aws002.vidfox.cloud/animal-planet/tracks-v1a1/mono.ts.m3u8
+http://srv03.cc:80/725158922/795582211/4794332.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL FHD
 http://srv03.cc:80/725158922/795582211/4794333.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL HD
@@ -3451,6 +3451,7 @@ http://srv03.cc:80/725158922/795582211/7142468.ts
 http://srv03.cc:80/725158922/795582211/7142469.ts
 #EXTINF:-1 tvg-id="" tvg-name="• Premiere Clubes SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="✨ CANAIS • CANAIS ALTERNATIVOS 02",• Premiere Clubes SD
 http://srv03.cc:80/725158922/795582211/7142470.ts
+
 
 
 
